@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding: 0;
+    list-style: none;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+}
+
+
+
+.recuadro{
+    background-color: rgb(17, 10, 43);
+    margin: 2rem;
+    padding: 1rem;
+    width: 180px;
+}
+
+.Texto{
+    text-align: center;
+    color: white;
+}
+.Icono {
+    border: 0.1rem solid rgb(2, 179, 2);
+    color: rgb(2, 179, 2);
+    border-radius: 100%;
+    width: 1rem;
+    height: 1rem;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Cuadrado{
+    text-align: center;
+    background-color: rebeccapurple;
+    height: 25px;
+    width: 175px;
+    border-radius: 15%; 
+}
+#Twitter{
+    color: white;
+    text-align: center;
+}
